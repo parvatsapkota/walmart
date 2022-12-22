@@ -10,4 +10,5 @@
 ## Conclusion from the presentation:<br>
 ![My Image](https://github.com/parvatsapkota/walmart/blob/main/conclusion.JPG)
 <br><br>
+Full presentation can be accessed [here](https://github.com/parvatsapkota/walmart/blob/main/Presentation.pdf)
 

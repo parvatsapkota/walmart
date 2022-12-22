@@ -1,5 +1,13 @@
 # walmart
-Here is how the overall visualization looks like:<br>
+## Exploration of the dataset:<br>
+[Tableau link](https://public.tableau.com/views/WalmartSalesExploration/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 ![My Image](https://github.com/parvatsapkota/walmart/blob/main/Dashboard.JPG)
 <br><br>
- If you want to interact with the visualization further, you can use this [link](https://public.tableau.com/views/WalmartSalesExploration/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
+## Graphs generated for the analysis:<br>
+[Tableau link](https://public.tableau.com/views/SalesateachWalmartstoreatdifferentholidays/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+![My Image](https://github.com/parvatsapkota/walmart/blob/main/Dashboard1.JPG)
+<br><br>
+## Conclusion from the presentation:<br>
+![My Image](https://github.com/parvatsapkota/walmart/blob/main/conclusion.JPG)
+<br><br>
+
